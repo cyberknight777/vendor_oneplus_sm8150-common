@@ -906,7 +906,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleWCD9340 \
     HotwordEnrollmentXGoogleWCD9340 \
     QtiTelephonyService \
-    WfdService \
     ims \
     qcrilmsgtunnel \
     qcnvitems \
